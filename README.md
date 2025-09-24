@@ -5,9 +5,11 @@
 Pixel Adventure é um protótipo de RPG em pixel art com batalhas por turnos, mapa interativo e sprites animados — feito com HTML5 Canvas, CSS e JavaScript.
 
 <div align="center">
-	<a href="assets/preview.gif" target="_blank">
-		<img src="assets/preview.gif" alt="Visual do projeto - Pixel Adventure" style="max-width:100%; width:900px; border:2px solid #222; box-shadow: 0 12px 36px rgba(0,0,0,0.35);" />
-	</a>
+	<video controls playsinline style="max-width:100%; width:900px; border:2px solid #222; box-shadow: 0 12px 36px rgba(0,0,0,0.35);">
+		<source src="assets/preview.mp4" type="video/mp4">
+		Seu navegador não suporta o elemento de vídeo. <a href="assets/preview.mp4">Baixar/abrir o vídeo</a>.
+	</video>
+	<p><em>Clique no vídeo para controles (play/pause). Abra em nova aba para ver em tamanho real.</em></p>
 </div>
 
 ## Sumário
@@ -52,16 +54,4 @@ Pixel Adventure é um protótipo de RPG em pixel art com batalhas por turnos, ma
 - Efeitos visuais retrô
 - Paleta de cores nostálgica
 
----
-
-## 👀 Visual do projeto
-
-<div align="center">
-	<a href="assets/preview.gif" target="_blank">
-		<img src="assets/preview.gif" alt="Visual do projeto - Pixel Adventure" style="max-width:100%; width:800px; border:1px solid #444; box-shadow: 0 8px 24px rgba(0,0,0,0.25);" />
-	</a>
-	<p><em>Clique na imagem para ver em tamanho real. Use um navegador ou abra `assets/preview.gif` localmente para melhor visualização.</em></p>
-</div>
-
----
 
