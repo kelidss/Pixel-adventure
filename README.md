@@ -1,6 +1,24 @@
 # 🕹️ Pixel Adventure - RPG Batalha por Turnos
 
-Jogo RPG em estilo pixel art com sistema de batalha por turnos, mapa interativo e elementos clássicos de jogos retrô.
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Language: HTML](https://img.shields.io/badge/language-HTML-blue.svg)](index.html) [![Made with HTML5](https://img.shields.io/badge/made%20with-HTML5-orange.svg)]()
+
+Pixel Adventure é um protótipo de RPG em pixel art com batalhas por turnos, mapa interativo e sprites animados — feito com HTML5 Canvas, CSS e JavaScript.
+
+<div align="center">
+	<a href="assets/preview.gif" target="_blank">
+		<img src="assets/preview.gif" alt="Visual do projeto - Pixel Adventure" style="max-width:100%; width:900px; border:2px solid #222; box-shadow: 0 12px 36px rgba(0,0,0,0.35);" />
+	</a>
+</div>
+
+## Sumário
+
+- [Funcionalidades](#-funcionalidades)
+- [Como Jogar](#-como-jogar)
+- [Visual do projeto](#-visual-do-projeto)
+- [Como executar localmente](#-como-executar-localmente)
+- [Tecnologias](#-tecnologias)
+- [Licença](#-licença)
+
 
 ## 🎮 Funcionalidades
 
@@ -34,6 +52,16 @@ Jogo RPG em estilo pixel art com sistema de batalha por turnos, mapa interativo 
 - Efeitos visuais retrô
 - Paleta de cores nostálgica
 
+---
 
-![Visual do projeto - Pixel Adventure](assets/preview.gif)
+## 👀 Visual do projeto
+
+<div align="center">
+	<a href="assets/preview.gif" target="_blank">
+		<img src="assets/preview.gif" alt="Visual do projeto - Pixel Adventure" style="max-width:100%; width:800px; border:1px solid #444; box-shadow: 0 8px 24px rgba(0,0,0,0.25);" />
+	</a>
+	<p><em>Clique na imagem para ver em tamanho real. Use um navegador ou abra `assets/preview.gif` localmente para melhor visualização.</em></p>
+</div>
+
+---
 

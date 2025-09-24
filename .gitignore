@@ -1,0 +1,26 @@
+# Ignore editor and OS files
+.DS_Store
+Thumbs.db
+
+# Node (if you add tooling later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build folders
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Misc
+*.tmp
